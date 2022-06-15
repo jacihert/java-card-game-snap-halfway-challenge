@@ -1,6 +1,6 @@
 #SNAP CARD GAME :
 
-![SNAP card game](https://en.wikipedia.org/wiki/Snap_(card_game)#/media/File:Pile_of_playing_cards.jpg)  
+![SNAP card game](https://pixabay.com/photos/cards-card-game-heart-pik-4045610/)  
 
 
 ###Snap is a card game in which 2 players "_Hoppy Rabbit_" & "_Swimmy Fish_" deal cards and react quickly to spot pairs of cards of the same rank.    
